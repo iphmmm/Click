@@ -2,7 +2,7 @@
 
 ## 📲 Início da Conversa  
 **Mensagem:**  
-Oi, [Nome]! Tudo bem? Aqui é o Paulo da Click. Vi que vocês já tiveram contato com a gente e queria entender um pouco melhor como trabalham com brindes e materiais promocionais. Você costuma cuidar dessa parte?  
+Oi, [Nome]! Aqui é o Paulo da Click. Notei que já tivemos um contato antes e queria entender um pouco mais sobre como vocês costumam trabalhar com brindes e materiais promocionais. Você que cuida dessa parte por aí?
 
 ---
 
