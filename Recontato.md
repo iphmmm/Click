@@ -2,7 +2,7 @@
 
 **1. Abertura:**
 
-Olá, [Nome]! Aqui é o Paulo da Click Promocional. Nós conversamos em janeiro e queria saber como estão as coisas por aí.
+Olá, [Nome]! Aqui é o Paulo da Click Promocional. Nós conversamos em [Momento do primeiro contato] e queria saber como estão as coisas por aí.
 
 ---
 
