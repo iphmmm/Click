@@ -1,4 +1,4 @@
-# 📞 **Script para Ligação - Novo Contato (Troca de Setor ou Saída da Empresa)**
+# 📞 **Script para Ligação - Novo Contato (Troca de Setor | Saída da Empresa | Lusha)**
 
 ## 📲 **Abertura**
 Olá, [Nome], tudo bem?  
