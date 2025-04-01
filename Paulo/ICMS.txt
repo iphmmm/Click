@@ -1,0 +1,15 @@
+ICMS e Local de Faturamento
+
+Para clientes que são contribuintes do ICMS (têm inscrição estadual), a mercadoria precisa ser entregue no mesmo endereço do faturamento porque a nota fiscal deve corresponder ao local onde o imposto será recolhido.
+Se o cliente quiser que a entrega seja feita em outro local, é necessário usar o processo de venda à ordem, onde a mercadoria é vendida para um intermediário antes de chegar ao destinatário final.
+Exceção para Matriz e Filial
+
+Se a entrega for para uma filial dentro do mesmo estado da matriz, não há necessidade de venda à ordem, pois a legislação permite essa movimentação sem problemas.
+Clientes sem Inscrição Estadual (não contribuintes de ICMS)
+
+Como esses clientes não recolhem ICMS diretamente, a regra é mais flexível e a entrega pode ser feita em outro local sem a necessidade da venda à ordem.
+No entanto, se a entrega for para outro estado, a empresa precisa calcular e cobrar o DIFAL (Diferencial de Alíquota do ICMS), um imposto obrigatório para equilibrar a arrecadação entre os estados.
+Controle Fiscal e Contábil
+
+Essas regras garantem que a empresa esteja em conformidade com as normas fiscais, evitando autuações e problemas com o fisco.
+Qualquer exceção precisa ser analisada pela contabilidade para evitar riscos tributários.

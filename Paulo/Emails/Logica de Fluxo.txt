@@ -1,0 +1,39 @@
++-------------------------+
+|    E-mail 1: Introdução |
+|  - Apresentação inicial |
+|  - Apresentar soluções  |
+|  - Destacar diferenciais|
++-------------------------+
+            |
+            v
++-------------------------+
+| E-mail 2: Follow-Up     |
+|  - Reforçar o contato   |
+|  - Relembrar soluções   |
+|  - Chamada para ação    |
++-------------------------+
+            |
+            v
++-------------------------+
+| E-mail 3: Aprofundamento|
+|  - Recapitular conversa |
+|  - Detalhar soluções    |
+|  - Oferecer mais info   |
++-------------------------+
+            |
+            v
++-------------------------+
+| E-mail 4: Reativação    |
+|  - Reengajar clientes   |
+|  - Apresentar novidades |
+|  - Chamada para ação    |
++-------------------------+
+            |
+            v
++--------------------------+
+| E-mail 5: Fechamento     |
+|  - Resumo final da oferta|
+|  - Urgência/condições    |
+|  - Chamada clara para    |
+|    decisão               |
++--------------------------+
